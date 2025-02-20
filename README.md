@@ -29,6 +29,13 @@ O Desafio Amigo Secreto é um passo importante para o sucesso no programa ONE.
 ```
 
 ## 📜 Como Usar
+
+Pode acessar o link abaixo:
+
+https://rodrigodjlima.github.io/challenge-amigo-secreto_pt-main/
+
+ou clonar o repositório e abrir no seu navegador.
+
 ### 1️⃣ Clonar o repositório:
 ```
 git clone https://github.com/rodrigodjlima/challenge-amigo-secreto_pt-main
